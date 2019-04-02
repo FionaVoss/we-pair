@@ -32,5 +32,6 @@ If you are making a PR, please alphabetize your additions by company name.
 |[Redbubble](https://www.keyvalues.com/redbubble)|San Francisco, CA; Melbourne, Australia|Most of the time|
 |[Sparta Science](https://github.com/sparta-science/engineer-job-posting)|San Francisco, CA|All the time|
 |[Table XI](https://www.tablexi.com/careers)|||
+|[Tandem](https://madeintandem.com)|Chicago, IL & San Francisco, CA|All the time|
 |[Voom](https://www.keyvalues.com/voom)|Seattle, WA|All the time|
 |[WWT Application Services](https://www.wwt.com/careers/)|St. Louis, MO; Springfield, MO; Denver, CO; New York, NY; London, United Kingdom|All the time|
