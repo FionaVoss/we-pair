@@ -23,7 +23,7 @@ If you are making a PR, please alphabetize your additions by company name.
 ## The List
 |Company name|Location|How much pairing?|
 |---|---|---|
-|[BackerKit](https://www.keyvalues.com/backerkit)|San Francisco, CA|Most of the time|
+|[BackerKit](https://www.keyvalues.com/backerkit)|San Francisco, CA|All the time|
 |[Connected](https://www.keyvalues.com/connected)|Toronto, Canada; Boston, MA||
 |[GitHub](https://www.keyvalues.com/github)|San Francisco, CA; Boulder, CO; Amsterdam; Tokyo; remote|Some of the time|
 |[Gusto](https://www.keyvalues.com/gusto)|San Francisco, Denver, Seattle|Most of the time|
