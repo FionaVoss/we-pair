@@ -24,6 +24,7 @@ If you are making a PR, please alphabetize your additions by company name.
 |Company name|Location|How much pairing?|
 |---|---|---|
 |[BackerKit](https://www.keyvalues.com/backerkit)|San Francisco, CA|All the time|
+|[Carbon Five](https://www.carbonfive.com/)|||
 |[Connected](https://www.keyvalues.com/connected)|Toronto, Canada; Boston, MA||
 |[GitHub](https://www.keyvalues.com/github)|San Francisco, CA; Boulder, CO; Amsterdam; Tokyo; remote|Some of the time|
 |[Gusto](https://www.keyvalues.com/gusto)|San Francisco, Denver, Seattle|Most of the time|
@@ -33,5 +34,6 @@ If you are making a PR, please alphabetize your additions by company name.
 |[Sparta Science](https://github.com/sparta-science/engineer-job-posting)|San Francisco, CA|All the time|
 |[Table XI](https://www.tablexi.com/careers)|||
 |[Tandem](https://madeintandem.com)|Chicago, IL & San Francisco, CA|All the time|
+|[ThoughtBot](https://thoughtbot.com/)|||
 |[Voom](https://www.keyvalues.com/voom)|Seattle, WA|All the time|
 |[WWT Application Services](https://www.wwt.com/careers/)|St. Louis, MO; Springfield, MO; Denver, CO; New York, NY; London, United Kingdom|All the time|
