@@ -27,7 +27,7 @@ If you are making a PR, please alphabetize your additions by company name.
 |[Connected](https://www.keyvalues.com/connected)|Toronto, Canada; Boston, MA||
 |[GitHub](https://www.keyvalues.com/github)|San Francisco, CA; Boulder, CO; Amsterdam; Tokyo; remote|Some of the time|
 |[Gusto](https://www.keyvalues.com/gusto)|San Francisco, Denver, Seattle|Most of the time|
-|[Pivotal](https://pivotal.io/careers)|||
+|[Pivotal (Labs)](https://pivotal.io/careers)|San Francisco, Denver, Chicago, D.C., Seattle, Santa Monica, London, NY, Atlanta, Dallas, Austin|All the time|
 |[Position Development](https://www.keyvalues.com/position-development)|Brooklyn, NY|Most of the time|
 |[Redbubble](https://www.keyvalues.com/redbubble)|San Francisco, CA; Melbourne, Australia|Most of the time|
 |[Sparta Science](https://github.com/sparta-science/engineer-job-posting)|San Francisco, CA|All the time|
