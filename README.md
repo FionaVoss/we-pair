@@ -27,6 +27,7 @@ If you are making a PR, please alphabetize your additions by company name.
 |[Connected](https://www.keyvalues.com/connected)|Toronto, Canada; Boston, MA||
 |[GitHub](https://www.keyvalues.com/github)|San Francisco, CA; Boulder, CO; Amsterdam; Tokyo; remote|Some of the time|
 |[Gusto](https://www.keyvalues.com/gusto)|San Francisco, Denver, Seattle|Most of the time|
+|[Mayvenn](https://jobs.mayvenn.com/)|Oakland, CA|All the time|
 |[Pivotal](https://pivotal.io/careers)|||
 |[Position Development](https://www.keyvalues.com/position-development)|Brooklyn, NY|Most of the time|
 |[Redbubble](https://www.keyvalues.com/redbubble)|San Francisco, CA; Melbourne, Australia|Most of the time|
