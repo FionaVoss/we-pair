@@ -23,15 +23,19 @@ If you are making a PR, please alphabetize your additions by company name.
 ## The List
 |Company name|Location|How much pairing?|
 |---|---|---|
+|[Autolist](https://www.autolist.com/about-us#jobs)|San Francisco, CA; Austin, TX; Brooklyn, NY|Most of the time|
 |[BackerKit](https://www.keyvalues.com/backerkit)|San Francisco, CA|All the time|
 |[Connected](https://www.keyvalues.com/connected)|Toronto, Canada; Boston, MA||
 |[GitHub](https://www.keyvalues.com/github)|San Francisco, CA; Boulder, CO; Amsterdam; Tokyo; remote|Some of the time|
 |[Gusto](https://www.keyvalues.com/gusto)|San Francisco, Denver, Seattle|Most of the time|
+|[Mayvenn](https://jobs.mayvenn.com/)|Oakland, CA|All the time|
+|[Meetup](https://www.meetup.com/careers)|New York, Berlin|Some of the time|
 |[Pivotal (Labs)](https://pivotal.io/careers)|San Francisco, Denver, Chicago, D.C., Seattle, Santa Monica, London, NY, Atlanta, Dallas, Austin|All the time|
 |[Position Development](https://www.keyvalues.com/position-development)|Brooklyn, NY|Most of the time|
 |[Redbubble](https://www.keyvalues.com/redbubble)|San Francisco, CA; Melbourne, Australia|Most of the time|
 |[Sparta Science](https://github.com/sparta-science/engineer-job-posting)|San Francisco, CA|All the time|
 |[Table XI](https://www.tablexi.com/careers)|||
+|[Tall Poppy](https://tallpoppy.io/careers)|San Francisco, CA|Most of the time|
 |[Tandem](https://madeintandem.com)|Chicago, IL & San Francisco, CA|All the time|
 |[Voom](https://www.keyvalues.com/voom)|Seattle, WA|All the time|
 |[WWT Application Services](https://www.wwt.com/careers/)|St. Louis, MO; Springfield, MO; Denver, CO; New York, NY; London, United Kingdom|All the time|
