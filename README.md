@@ -30,7 +30,7 @@ If you are making a PR, please alphabetize your additions by company name.
 |[Gusto](https://www.keyvalues.com/gusto)|San Francisco, Denver, Seattle|Most of the time|
 |[Mayvenn](https://jobs.mayvenn.com/)|Oakland, CA|All the time|
 |[Meetup](https://www.meetup.com/careers)|New York, Berlin|Some of the time|
-|[Pivotal](https://pivotal.io/careers)|||
+|[Pivotal (Labs)](https://pivotal.io/careers)|San Francisco, Denver, Chicago, D.C., Seattle, Santa Monica, London, NY, Atlanta, Dallas, Austin|All the time|
 |[Position Development](https://www.keyvalues.com/position-development)|Brooklyn, NY|Most of the time|
 |[Redbubble](https://www.keyvalues.com/redbubble)|San Francisco, CA; Melbourne, Australia|Most of the time|
 |[Sparta Science](https://github.com/sparta-science/engineer-job-posting)|San Francisco, CA|All the time|
