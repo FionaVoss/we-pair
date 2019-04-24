@@ -28,6 +28,7 @@ If you are making a PR, please alphabetize your additions by company name.
 |[Carbon Five](https://www.carbonfive.com/)|||
 |[Connected](https://www.keyvalues.com/connected)|Toronto, Canada; Boston, MA||
 |[GitHub](https://www.keyvalues.com/github)|San Francisco, CA; Boulder, CO; Amsterdam; Tokyo; remote|Some of the time|
+|[Greenhouse](https://engineering.greenhouse.io)|New York; remote|Some of the time|
 |[Gusto](https://www.keyvalues.com/gusto)|San Francisco, Denver, Seattle|Most of the time|
 |[Mayvenn](https://jobs.mayvenn.com/)|Oakland, CA|All the time|
 |[Meetup](https://www.meetup.com/careers)|New York, Berlin|Some of the time|
