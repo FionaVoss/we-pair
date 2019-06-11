@@ -25,6 +25,7 @@ If you are making a PR, please alphabetize your additions by company name.
 |---|---|---|
 |[Autolist](https://www.autolist.com/about-us#jobs)|San Francisco, CA; Austin, TX; Brooklyn, NY|Most of the time|
 |[BackerKit](https://www.keyvalues.com/backerkit)|San Francisco, CA|All the time|
+|[Boclips](https://www.boclips.com/careers)|London, United Kingdom|Most of the time|
 |[Carbon Five](https://www.carbonfive.com/)|Chattanooga, TN; Los Angeles, CA; New York, NY; San Francisco, CA; Seattle, WA|Some of the time|
 |[Connected](https://www.connected.io/careers)|Toronto, Canada; Detroit, MI, San Francisco, CA, Boston, MA|Most of the time|
 |[GitHub](https://www.keyvalues.com/github)|San Francisco, CA; Boulder, CO; Amsterdam; Tokyo; remote|Some of the time|
