@@ -27,6 +27,7 @@ If you are making a PR, please alphabetize your additions by company name.
 |[BackerKit](https://www.keyvalues.com/backerkit)|San Francisco, CA|All the time|
 |[Boclips](https://www.boclips.com/careers)|London, United Kingdom|Most of the time|
 |[Carbon Five](https://www.carbonfive.com/)|Chattanooga, TN; Los Angeles, CA; New York, NY; San Francisco, CA; Seattle, WA|Some of the time|
+|[Code for America](https://www.codeforamerica.org/jobs)|San Francisco, CA|Most of the time|
 |[Connected](https://www.connected.io/careers)|Toronto, Canada; Detroit, MI, San Francisco, CA, Boston, MA|Most of the time|
 |[GitHub](https://www.keyvalues.com/github)|San Francisco, CA; Boulder, CO; Amsterdam; Tokyo; remote|Some of the time|
 |[Greenhouse](https://engineering.greenhouse.io)|New York; remote|Some of the time|
