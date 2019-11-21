@@ -2,7 +2,7 @@
 
 ## What is this?
 
-A list of companies that pair program, for job seekers.
+A list of companies that [pair program](https://en.wikipedia.org/wiki/Pair_programming), for job seekers.
 
 ## Why?
 
