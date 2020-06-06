@@ -47,6 +47,7 @@ If you are making a PR, please alphabetize your additions by company name.
 |[Tall Poppy](https://tallpoppy.io/careers)|San Francisco, CA|Most of the time|
 |[Tandem](https://madeintandem.com)|Chicago, IL & San Francisco, CA|All the time|
 |[ThoughtBot](https://thoughtbot.com/)|||
+|[ThoughtWorks](https://thoughtworks.com/)|Chicago, IL, San Francisco CA, [Global](https://www.thoughtworks.com/contact-us#office-locations)|Most of the time|
 |[Transparent Classroom](http://transparentclassroom.com)|Seattle, WA|Most of the time|
 |[Voom](https://www.keyvalues.com/voom)|Seattle, WA|All the time|
 |[WWT Application Services](https://www.wwt.com/careers/)|St. Louis, MO; Springfield, MO; Denver, CO; New York, NY; London, United Kingdom|All the time|
