@@ -35,6 +35,7 @@ If you are making a PR, please alphabetize your additions by company name.
 |[Greenhouse](https://engineering.greenhouse.io)|New York; remote|Some of the time|
 |[Gusto](https://www.keyvalues.com/gusto)|San Francisco, Denver, Seattle|Most of the time|
 |[Integral Software](https://www.integral.io/careers)|Detroit, MI|All the time|
+|[LMAX](https://careers.lmax.com/)|London, United Kingdom; Auckland, New Zealand|Most to All of the time|
 |[Mavenlink](https://www.mavenlink.com/careers)|San Francisco, CA; Salt Lake City, UT|Most to All of the time|
 |[Mayvenn](https://jobs.mayvenn.com/)|Oakland, CA|All the time|
 |[Meetup](https://www.meetup.com/careers)|New York, Berlin|Some of the time|
