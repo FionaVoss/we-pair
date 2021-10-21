@@ -23,6 +23,7 @@ If you are making a PR, please alphabetize your additions by company name.
 ## The List
 |Company name|Location|How much pairing?|
 |---|---|---|
+|[Artium](https://www.thisisartium.com/careers)|Los Angeles, CA; New York, NY; San Francisco, CA|Most of the time|
 |[Autolist](https://www.autolist.com/about-us#jobs)|San Francisco, CA; Austin, TX; Brooklyn, NY|Most of the time|
 |[BackerKit](https://www.keyvalues.com/backerkit)|San Francisco, CA|All the time|
 |[Boclips](https://www.boclips.com/careers)|London, United Kingdom|Most of the time|
