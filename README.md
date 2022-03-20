@@ -31,6 +31,7 @@ If you are making a PR, please alphabetize your additions by company name.
 |[Code for America](https://www.codeforamerica.org/jobs)|San Francisco, CA|Most of the time|
 |[Connected](https://www.connected.io/careers)|Toronto, Canada; Detroit, MI, San Francisco, CA, Boston, MA|Most of the time|
 |[Detroit Labs](https://www.detroitlabs.com/careers/)|Detroit, MI|Some of the time|
+|[FordLabs](https://www.fordlabs.com/)|Detroit, MI|Most of the time|
 |[GitHub](https://www.keyvalues.com/github)|San Francisco, CA; Boulder, CO; Amsterdam; Tokyo; remote|Some of the time|
 |[Greenhouse](https://engineering.greenhouse.io)|New York; remote|Some of the time|
 |[Gusto](https://www.keyvalues.com/gusto)|San Francisco, Denver, Seattle|Most of the time|
